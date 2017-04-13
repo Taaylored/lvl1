@@ -1,3 +1,7 @@
 /* Stylsheet */
 body {
-  background: #ddf2ff; }
+  background: #3894cc; }
+
+.key ui button {
+  color: crimson;
+  background: red; }
