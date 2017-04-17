@@ -1435,6 +1435,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/sounds\/atomicbomb.wav": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sounds\/atomicbomb.wav",
+		"oF": 0
+		},
 	"\/sounds\/boom.wav": {
 		"ft": 8192,
 		"oA": 2,

@@ -2,6 +2,23 @@
 body {
   background: #3894cc; }
 
+h1 {
+  color: white;
+  padding: 10px 0px 0px 50px; }
+
 .key ui button {
-  color: crimson;
-  background: red; }
+  padding: 10px;
+  background: blue; }
+
+.keys {
+  padding: 50px; }
+
+kbd {
+  color: #d02c2c;
+  padding: 0 10px 10px 10px; }
+
+.sound {
+  display: block;
+  background: white;
+  color: blue;
+  padding: 5px; }
